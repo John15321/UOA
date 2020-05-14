@@ -1,0 +1,10 @@
+Pyania:
+1. Sposoby podłączenia czujników do przetworników. (narysować schematy).
+Opisać zalety i wady poszczególnych sposobów połączeń.
+
+str 3 rysunek r2.2
+ 
+2. Opisać jaki to jest przetwornik dwuprzewodowy.
+
+str 4, 2 akapit +
+
